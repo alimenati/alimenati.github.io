@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Ali Menati - Services</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Ali Menati</div>
+<div class="menu-item"><a href="index.html" class="current">Home</a></div>
+<div class="menu-item"><a href="awards.html">Awards</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="services.html">Services</a></div>
+<div class="menu-item"><a href="projects.html">Projects</a></div>
+<div class="menu-category">Coursework</div>
+<div class="menu-item"><a href="learning.html">Learning</a></div>
+<div class="menu-item"><a href="teaching.html">Teaching</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Average-Case Competitive Analysis for Rent or Buy Problems with Uniform Distribution</h1>
+<div id="subtitle">Joint work with <a href="http://personal.cityu.edu.hk/mchen88/index.html">Prof. Minghua Chen</a> from The Chinese University of Hong Kong.</div>
+</div>
+<ul>
+<li><p>  Suppose a skier wants to go skiing, and he has to pay 1 dollar for renting ski for one day or pay S dollars to buy his own. The skier does not know the exact number of days that he would
+like to ski and every morning when he goes skiing he needs to decide in an online fashion whether to rent or buy. The goal is to minimize the total cost of skiing. This problem is called ski-rental problem in the literature.
+If the skier knows in advance how many days he will go skiing,  it is easy to make the optimal decision. Specifically if the total number of days he will go skiing is less than S, then it is better to keep renting the ski; otherwise, he should buy the ski at the beginning. This strategy with the perfect knowledge of the future input is called the optimal offline algorithm. Meanwhile, when the number of days that skier goes skiing is not known in advance, the skier needs to make decision in an online fashion. 
+In this work, we assume that we have a distributional knowledge of the number of days that the skier goes skiing and our goal is to design distribution-aware online algorithms for the ski-rental problem.</p> 
+</li>
+</ul>
+<h2>Publication</h2>
+<ol>
+<div id="footer">
+<div id="footer-text">
+Page generated 2020-03-19, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
